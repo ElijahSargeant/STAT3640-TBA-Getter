@@ -1,6 +1,6 @@
-# Elijah Sargeant
+# TBA Getter
 
-## TBA Getter
+## Elijah Sargeant
 
 This is a quick and dirty program used to interface with the blue alliance API
 Written for a statistcs project 
